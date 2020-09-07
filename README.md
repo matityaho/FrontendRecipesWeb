@@ -1,8 +1,8 @@
-# Assignment 3- Frontend Recipes
+# Assignment No.3- Frontend Recipes Web
 
-Client side of recipes website, the web application is SPA (single page application).
+Recipes website frontend, the web application is SPA (single page application).
 
-This side in charge of the UI\UX, send HTTP request to the server and recive responses from him (display to the user).
+The side incharge of the UI\UX, send HTTP request to the server and recive responses from the server (eventually displays to the user).
 
 Using Vue.js.
 
