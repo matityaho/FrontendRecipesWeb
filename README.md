@@ -19,7 +19,7 @@ For signed in users:
 8. My Recipes- users recipes from the DB.
 9. Family Recipes- users family recipes from the DB.
 
-## API
+## Restful API
 https://app.swaggerhub.com/apis/vaitz/Ass3_May_Hay/1.0.2/
 
 ## Backend
